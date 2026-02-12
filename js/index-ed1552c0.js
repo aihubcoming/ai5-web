@@ -1,0 +1,1 @@
+import{_ as o,aG as t,o as c,c as s,d as n}from"./index-747f5440.js";const r={name:"c2c"},a={class:"w-full h-full"};function _(l,p,d,i,f,u){const e=t("router-view");return c(),s("div",a,[n(e)])}const v=o(r,[["render",_]]);export{v as default};

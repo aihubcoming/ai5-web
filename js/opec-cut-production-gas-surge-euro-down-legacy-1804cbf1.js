@@ -1,0 +1,1 @@
+System.register(["./article-legacy-36e8534f.js","./index-legacy-e9cd86e3.js"],(function(e,t){"use strict";var u,r,s;return{setters:[e=>{u=e.p},e=>{r=e.o,s=e.L}],execute:function(){e("default",{__name:"opec-cut-production-gas-surge-euro-down",setup:e=>(e,t)=>(r(),s(u,{aNum:1}))})}}}));

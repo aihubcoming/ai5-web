@@ -1,0 +1,1 @@
+import{p as o}from"./article-cf5a2872.js";import{o as t,L as a}from"./index-747f5440.js";const n={__name:"what-you-should-know-about-oil-trading",setup(r){return(e,c)=>(t(),a(o,{aNum:12}))}};export{n as default};

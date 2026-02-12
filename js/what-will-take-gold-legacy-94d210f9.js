@@ -1,0 +1,1 @@
+System.register(["./article-legacy-36e8534f.js","./index-legacy-e9cd86e3.js"],(function(e,t){"use strict";var a,s,r;return{setters:[e=>{a=e.p},e=>{s=e.o,r=e.L}],execute:function(){e("default",{__name:"what-will-take-gold",setup:e=>(e,t)=>(s(),r(a,{aNum:2}))})}}}));

@@ -1,0 +1,1 @@
+System.register(["./article-legacy-36e8534f.js","./index-legacy-e9cd86e3.js"],(function(e,t){"use strict";var s,u,r;return{setters:[e=>{s=e.p},e=>{u=e.o,r=e.L}],execute:function(){e("default",{__name:"us-august-cpi-preview",setup:e=>(e,t)=>(u(),r(s,{aNum:6}))})}}}));

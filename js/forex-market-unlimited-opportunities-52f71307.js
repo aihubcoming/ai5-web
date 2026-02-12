@@ -1,0 +1,1 @@
+import{p as e}from"./article-cf5a2872.js";import{o as r,L as t}from"./index-747f5440.js";const s={__name:"forex-market-unlimited-opportunities",setup(o){return(a,p)=>(r(),t(e,{aNum:1}))}};export{s as default};

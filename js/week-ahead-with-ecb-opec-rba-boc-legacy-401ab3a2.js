@@ -1,0 +1,1 @@
+System.register(["./article-legacy-36e8534f.js","./index-legacy-e9cd86e3.js"],(function(e,t){"use strict";var a,c,r;return{setters:[e=>{a=e.p},e=>{c=e.o,r=e.L}],execute:function(){e("default",{__name:"week-ahead-with-ecb-opec-rba-boc",setup:e=>(e,t)=>(c(),r(a,{aNum:9}))})}}}));
