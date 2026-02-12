@@ -1,1 +1,0 @@
-System.register(["./article-legacy-36e8534f.js","./index-legacy-e9cd86e3.js"],(function(e,t){"use strict";var r,s,a;return{setters:[e=>{r=e.p},e=>{s=e.o,a=e.L}],execute:function(){e("default",{__name:"trade-global-equity-markets-with-pepperstone",setup:e=>(e,t)=>(s(),a(r,{aNum:7}))})}}}));

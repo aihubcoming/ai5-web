@@ -1,0 +1,1 @@
+System.register(["./article-legacy-73449d3b.js","./index-legacy-aea0130f.js"],(function(e,t){"use strict";var a,r,s;return{setters:[e=>{a=e.p},e=>{r=e.o,s=e.L}],execute:function(){e("default",{__name:"the-week-ahead-fed-remained-hawkish-dollar-20-year-high",setup:e=>(e,t)=>(r(),s(a,{aNum:10}))})}}}));

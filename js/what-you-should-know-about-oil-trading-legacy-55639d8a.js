@@ -1,0 +1,1 @@
+System.register(["./article-legacy-73449d3b.js","./index-legacy-aea0130f.js"],(function(e,t){"use strict";var u,a,s;return{setters:[e=>{u=e.p},e=>{a=e.o,s=e.L}],execute:function(){e("default",{__name:"what-you-should-know-about-oil-trading",setup:e=>(e,t)=>(a(),s(u,{aNum:12}))})}}}));

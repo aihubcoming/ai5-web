@@ -1,0 +1,1 @@
+System.register(["./article-legacy-73449d3b.js","./index-legacy-aea0130f.js"],(function(e,t){"use strict";var r,i,s;return{setters:[e=>{r=e.p},e=>{i=e.o,s=e.L}],execute:function(){e("default",{__name:"forex-market-unlimited-opportunities",setup:e=>(e,t)=>(i(),s(r,{aNum:1}))})}}}));

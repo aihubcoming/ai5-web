@@ -1,0 +1,1 @@
+System.register(["./article-legacy-73449d3b.js","./index-legacy-aea0130f.js"],(function(e,t){"use strict";var s,r,c;return{setters:[e=>{s=e.p},e=>{r=e.o,c=e.L}],execute:function(){e("default",{__name:"ecb-sep-meeting-preview",setup:e=>(e,t)=>(r(),c(s,{aNum:6}))})}}}));

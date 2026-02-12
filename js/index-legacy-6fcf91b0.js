@@ -1,1 +1,0 @@
-System.register(["./index-legacy-e9cd86e3.js"],(function(e,t){"use strict";var n,r,c,s,u;return{setters:[e=>{n=e._,r=e.aG,c=e.o,s=e.c,u=e.d}],execute:function(){const t={class:"w-full h-full"};e("default",n({name:"c2c"},[["render",function(e,n,i,l,o,a){const f=r("router-view");return c(),s("div",t,[u(f)])}]]))}}}));

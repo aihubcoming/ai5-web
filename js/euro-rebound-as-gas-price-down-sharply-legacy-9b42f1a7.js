@@ -1,0 +1,1 @@
+System.register(["./article-legacy-73449d3b.js","./index-legacy-aea0130f.js"],(function(e,t){"use strict";var r,s,a;return{setters:[e=>{r=e.p},e=>{s=e.o,a=e.L}],execute:function(){e("default",{__name:"euro-rebound-as-gas-price-down-sharply",setup:e=>(e,t)=>(s(),a(r,{aNum:13}))})}}}));

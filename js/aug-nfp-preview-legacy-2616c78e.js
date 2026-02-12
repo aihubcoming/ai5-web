@@ -1,1 +1,0 @@
-System.register(["./article-legacy-36e8534f.js","./index-legacy-e9cd86e3.js"],(function(e,t){"use strict";var r,s,u;return{setters:[e=>{r=e.p},e=>{s=e.o,u=e.L}],execute:function(){e("default",{__name:"aug-nfp-preview",setup:e=>(e,t)=>(s(),u(r,{aNum:14}))})}}}));

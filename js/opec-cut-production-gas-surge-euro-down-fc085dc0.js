@@ -1,1 +1,0 @@
-import{p as o}from"./article-cf5a2872.js";import{o as r,L as e}from"./index-747f5440.js";const u={__name:"opec-cut-production-gas-surge-euro-down",setup(c){return(t,a)=>(r(),e(o,{aNum:1}))}};export{u as default};
