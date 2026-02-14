@@ -1,1 +1,0 @@
-System.register(["./article-legacy-73449d3b.js","./index-legacy-aea0130f.js"],(function(e,t){"use strict";var s,a,u;return{setters:[e=>{s=e.p},e=>{a=e.o,u=e.L}],execute:function(){e("default",{__name:"the-week-ahead-us-cpi",setup:e=>(e,t)=>(a(),u(s,{aNum:5}))})}}}));

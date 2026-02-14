@@ -1,0 +1,1 @@
+import{p as e}from"./article-0bd1ca4d.js";import{o as a,L as r}from"./index-7502ddb7.js";const m={__name:"the-week-ahead-fed-remained-hawkish-dollar-20-year-high",setup(o){return(t,c)=>(a(),r(e,{aNum:10}))}};export{m as default};

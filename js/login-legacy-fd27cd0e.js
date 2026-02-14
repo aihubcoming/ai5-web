@@ -1,1 +1,0 @@
-System.register(["./index-legacy-aea0130f.js"],(function(e,t){"use strict";var s;return{setters:[e=>{s=e.am}],execute:function(){e("g",(()=>{localStorage.getItem("spToken")?s.push("/coin/constract/btc?timestamp=1694700784934&RouterName=sustainable"):s.push("/login")}))}}}));

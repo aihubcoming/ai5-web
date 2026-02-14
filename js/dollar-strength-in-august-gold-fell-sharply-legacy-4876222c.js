@@ -1,1 +1,0 @@
-System.register(["./article-legacy-73449d3b.js","./index-legacy-aea0130f.js"],(function(e,t){"use strict";var s,r,a;return{setters:[e=>{s=e.p},e=>{r=e.o,a=e.L}],execute:function(){e("default",{__name:"dollar-strength-in-august-gold-fell-sharply",setup:e=>(e,t)=>(r(),a(s,{aNum:11}))})}}}));

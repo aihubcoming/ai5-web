@@ -1,0 +1,1 @@
+import{p as r}from"./article-0bd1ca4d.js";import{o as t,L as a}from"./index-7502ddb7.js";const p={__name:"dollar-strength-in-august-gold-fell-sharply",setup(e){return(o,s)=>(t(),a(r,{aNum:11}))}};export{p as default};
