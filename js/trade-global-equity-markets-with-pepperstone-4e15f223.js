@@ -1,1 +1,0 @@
-import{p as e}from"./article-0bd1ca4d.js";import{o as t,L as r}from"./index-7502ddb7.js";const m={__name:"trade-global-equity-markets-with-pepperstone",setup(a){return(o,p)=>(t(),r(e,{aNum:7}))}};export{m as default};

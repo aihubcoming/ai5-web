@@ -1,0 +1,1 @@
+import{p as r}from"./article-2b188b38.js";import{o as e,L as o}from"./index-30627e35.js";const n={__name:"euro-rebound-as-gas-price-down-sharply",setup(a){return(c,p)=>(e(),o(r,{aNum:13}))}};export{n as default};
