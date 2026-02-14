@@ -1,0 +1,1 @@
+import{_ as n,o as a,c as o,a as t,a9 as c,n as l}from"./index-69a2b67d.js";const r={class:"single-block"},_={__name:"pcSection",props:{innerclass:{type:String,default:""}},setup(e){return(s,i)=>(a(),o("section",r,[t("div",{class:l(["single-block-w px-8",e.innerclass])},[c(s.$slots,"default",{},void 0,!0)],2)]))}},d=n(_,[["__scopeId","data-v-39876882"]]);export{d as _};

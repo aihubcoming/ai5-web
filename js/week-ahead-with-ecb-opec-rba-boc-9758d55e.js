@@ -1,1 +1,0 @@
-import{p as e}from"./article-2b188b38.js";import{o as a,L as c}from"./index-30627e35.js";const _={__name:"week-ahead-with-ecb-opec-rba-boc",setup(o){return(r,t)=>(a(),c(e,{aNum:9}))}};export{_ as default};

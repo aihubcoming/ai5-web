@@ -1,1 +1,0 @@
-import{an as e}from"./index-30627e35.js";function n(t){return e.fetch("/api/wallet/getAll.action",t)}function a(){return e.fetch("/api/exchangerate!list.action")}function c(){return e.fetch("/api/exchangerateuserconfig!get.action")}const o={getPairsWallet:n,getExchangerateuserconfig:a,getExchangerateuserconfigInfo:c};export{o as q};
